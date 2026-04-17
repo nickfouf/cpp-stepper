@@ -4,7 +4,7 @@ An educational, step-by-step C++ execution engine built with JavaScript and [Tre
 
 C++ Stepper parses C++ code into an Abstract Syntax Tree (AST) using Tree-sitter and evaluates it step-by-step. It simulates a virtual memory environment, a call stack, heap allocations, and even complex language features like classes, templates, pointers, and exceptions. 
 
-This project is great for visualizing how C++ executes under the hood!
+This project is great for visualizing how C++ executes under the hood! As a primary use case, it can be seamlessly integrated into an educational app to provide interactive, step-by-step execution of C++ code, helping students visualize algorithms, memory states, and control flow in real time.
 
 ## Features
 
@@ -65,4 +65,4 @@ This is an experimental, educational interpreter for a subset of C++. It does no
 
 ## License
 
-ISC
+This project is licensed under the MIT License.
